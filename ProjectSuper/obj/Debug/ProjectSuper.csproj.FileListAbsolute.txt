@@ -1,0 +1,146 @@
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe.config
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDairyMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDrinksMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMainMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMeatMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminVeganMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AlcoholicMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.BeefMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.CheeseMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.ChickenMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DairyMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DrinkMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FrozenMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FruitsMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.IceCreamMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.LambMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.LoginScreen.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MainScreen.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MeatMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MilkMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.NonAlcoholicMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.Properties.Resources.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VeganMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VegtablesMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.WineMenu.resources
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.GenerateResource.cache
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.CoreCompileInputs.cache
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.pdb
+C:\Users\robix\source\repos\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.pdb
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe.config
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.pdb
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDairyMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDrinksMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMainMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMeatMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminVeganMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AlcoholicMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.BeefMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.CheeseMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.ChickenMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DairyMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DrinkMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FrozenMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FruitsMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.IceCreamMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.LambMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.LoginScreen.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MainScreen.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MeatMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MilkMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.NonAlcoholicMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.Properties.Resources.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VeganMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VegtablesMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.WineMenu.resources
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.GenerateResource.cache
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.CoreCompileInputs.cache
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\8lab307new\Downloads\ProjectSuperZipShahar\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.pdb
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe.config
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.pdb
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDairyMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminDrinksMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMainMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminMeatMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AdminVeganMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.AlcoholicMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.BeefMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.CheeseMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.ChickenMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DairyMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DrinkMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FrozenMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.FruitsMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.IceCreamMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.LambMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MainScreen.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MeatMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MilkMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.Properties.Resources.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VeganMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VegtablesMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.WineMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.GenerateResource.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.CoreCompileInputs.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.pdb
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.CreditCard.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.SoftDrinksMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.ChangeItemMenu.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe.config
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.exe
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\ProjectSuper.pdb
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.CreditCard.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MainScreen.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.Properties.Resources.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.GenerateResource.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.CoreCompileInputs.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.pdb
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.MeatDept.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DairyDept.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.VeganDept.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.DrinksDept.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\Interop.WMPLib.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.ResolveComReference.cache
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.Asio.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.Core.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.Midi.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.Wasapi.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.WinForms.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.WinMM.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\System.Security.AccessControl.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\NAudio.xml
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\System.Security.AccessControl.xml
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\Interop.WMPLib.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.CopyComplete
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.Welcome.resources
+C:\Users\robix\OneDrive\שולחן העבודה\ProjectSuper\ProjectSuper\bin\Debug\Control.Draggable.dll
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\Interop.WMPLib.dll
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.csproj.ResolveComReference.cache
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\97252\Desktop\ProjectSuper\ProjectSuper\ProjectSuper\obj\Debug\ProjectSuper.pdb
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\ProjectSuper.csproj.AssemblyReference.cache
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\Interop.WMPLib.dll
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\ProjectSuper.csproj.ResolveComReference.cache
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\ProjectSuper.exe
+C:\Users\97252\Documents\SuperPerry proj\SuperPerry\ProjectSuper\obj\Debug\ProjectSuper.pdb
